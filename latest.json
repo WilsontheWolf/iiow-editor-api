@@ -1,5 +1,6 @@
 {
 "version": "0.0.6",
 "description": "Full v7.1 and v7.2 support!\nDiscord Rich Presence",
-"sprites": 1
+"sprites": 1,
+"ids": 1
 }
