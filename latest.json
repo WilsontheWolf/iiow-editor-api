@@ -2,5 +2,5 @@
 "version": "0.0.7",
 "description": "UI changes\nDownloading ids so you don't have to update each time iiow updates\nNote the modify button does nothing special right now.",
 "sprites": 1,
-"ids": 2
+"ids": 3
 }
