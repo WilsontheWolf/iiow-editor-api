@@ -1,6 +1,6 @@
 {
-"version": "0.0.7",
-"description": "UI changes\nDownloading ids so you don't have to update each time iiow updates\nNote the modify button does nothing special right now.",
+"version": "0.0.8",
+"description": "Full v7.5 support as well as extracting id info from the saves themselves!\nNote the modify button does nothing special right now.",
 "sprites": 1,
 "ids": 3
 }
